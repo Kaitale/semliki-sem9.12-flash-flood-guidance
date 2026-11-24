@@ -1,6 +1,6 @@
 # Soil-moisture-dependent flash flood guidance for ungauged escarpment tributaries in an operational HEC-RTS forecasting system: the Semliki Basin, Uganda
 
-**Kakooza, C. and Nafula, M. (2026).** KAI Water & Energy, Kampala, Uganda. Zenodo DOI: *to be assigned on publication*.
+**Kakooza, C. and Nafula, M. (2026).** KAI Water & Energy, Kampala, Uganda. Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24487521.svg)](https://doi.org/10.5281/zenodo.24487521)
 Corresponding author: Monica Nafula, monicanafula@kaiwaterenergy.com
 
 The paper extends an operational main-river flood forecasting system for the Semliki River (HEC-HMS and HEC-RAS run under HEC-RTS with four forecast members) to six ungauged escarpment tributaries, and derives flash flood guidance directly from the soil state of the operational model at each issue.
@@ -34,4 +34,4 @@ Manuscript, data and figures: CC BY 4.0. Code and notebook code cells: MIT. See 
 
 ## Cite
 
-Kakooza, C., Nafula, M., 2026. Soil-moisture-dependent flash flood guidance for ungauged escarpment tributaries in an operational HEC-RTS forecasting system: the Semliki Basin, Uganda. Zenodo. https://doi.org/10.5281/zenodo.[to be assigned]
+Kakooza, C., Nafula, M., 2026. Soil-moisture-dependent flash flood guidance for ungauged escarpment tributaries in an operational HEC-RTS forecasting system: the Semliki Basin, Uganda. Zenodo. https://doi.org/10.5281/zenodo.24487521

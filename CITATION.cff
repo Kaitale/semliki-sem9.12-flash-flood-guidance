@@ -4,7 +4,8 @@ title: "Soil-moisture-dependent flash flood guidance for ungauged escarpment tri
 type: software
 version: "1.0"
 date-released: 2026-11-24
-# doi: to be assigned by Zenodo on publication
+doi: "10.5281/zenodo.24487521"
+url: "https://doi.org/10.5281/zenodo.24487521"
 license: [CC-BY-4.0, MIT]
 repository-code: "https://github.com/Kaitale/semliki-sem9.12-flash-flood-guidance"
 authors:
