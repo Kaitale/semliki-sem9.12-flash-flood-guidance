@@ -1,0 +1,52 @@
+{
+ "metadata": {
+  "upload_type": "publication",
+  "publication_type": "other",
+  "title": "Soil-moisture-dependent flash flood guidance for ungauged escarpment tributaries in an operational HEC-RTS forecasting system: the Semliki Basin, Uganda",
+  "publication_date": "2026-11-24",
+  "creators": [
+   {
+    "name": "Kakooza, Charles",
+    "affiliation": "KAI Water & Energy, Kampala, Uganda"
+   },
+   {
+    "name": "Nafula, Monica",
+    "affiliation": "KAI Water & Energy, Kampala, Uganda"
+   }
+  ],
+  "description": "<p><strong>Study region:</strong> The Rwenzori front in Bundibugyo District and the Nombe–Karugutu escarpment in Ntoroko District, western Uganda, where steep, ungauged tributaries of 189–507 km² flood within hours of a storm and join the Semliki River between Lake Edward and Lake Albert.</p><p><strong>Study focus:</strong> Operational flood forecasting systems in East Africa are designed for main rivers, whereas the floods that damage roads, bridges and settlements on the rift escarpments occur on small, ungauged tributaries. This study extends the operational Semliki Flood Forecasting System (HEC-HMS and HEC-RAS run under HEC-RTS with four numerical weather prediction members) to six tributary forecast points, using only the model, data and products available in daily operation. Four questions are addressed: (i) which rainfall thresholds the 1981–2025 record supports and whether they agree with the district flood record; (ii) whether the 24-hour Meteosat H SAF H60B estimate adds a useful observed signal; (iii) whether daily staff-gauge records can calibrate the fast escarpment response; and (iv) whether flash flood guidance can be derived from the soil state of the operational model at each issue and used to set tiered forecast horizons.</p><p><strong>New hydrological insights:</strong> The 95th and 99th percentiles of catchment-mean daily rainfall are 15–17 mm and 24–27 mm on all six catchments. On the River Wassa, a Watch threshold of 26 mm in 1 day or 45 mm in 3 days is met 5.8 times a year and a Warning threshold at the 2-year rainfall (36/61 mm) 1.3 times a year; the October 2022 flood reaches Watch and the 2024 flood Warning, whereas the 2014 storms are absent from CHIRPS. The forecast percentile detected only 4 % of observed heavy-rain days. Eighteen calibrations of the escarpment response against the Tokwe and Ndugutu staff gauges scored within 0.245–0.279, showing that daily records reflect seasonal storage rather than the storm response. Guidance computed with the model’s own loss, unit-hydrograph and groundwater components reproduced HEC-HMS within 1 % for two synthetic storms and 10 % for a third; on saturated soils, 20 mm in 1 h or 34 mm in 24 h would bring the Wassa to Watch. H60B over-estimates the reference 1.8-fold on these slopes, yet in the 24 h containing the Burondo flash flood (to 08:15, 20 November 2026) it ranked first of 46 days on the Wassa. Flash flood guidance derived from the state of an existing main-river model therefore offers a practical route to tributary warning where no tributary gauge exists.</p><p>Package: the paper (PDF), reproduce_paper.ipynb (recomputes every table from data_tributary_points.zip), semliki_ffg.py (flash flood guidance from HEC-HMS states) and the data workbook SEM.9.12. Code MIT; manuscript and data CC BY 4.0. Corresponding author: Monica Nafula, monicanafula@kaiwaterenergy.com.</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+   "Flash flood guidance",
+   "Ungauged catchments",
+   "Rainfall thresholds",
+   "HEC-HMS",
+   "HEC-RTS",
+   "Satellite precipitation",
+   "Early warning",
+   "Rwenzori",
+   "Semliki River",
+   "Uganda"
+  ],
+  "related_identifiers": [
+   {
+    "identifier": "https://github.com/Kaitale/semliki-sem9.12-flash-flood-guidance",
+    "relation": "isSupplementedBy",
+    "scheme": "url"
+   },
+   {
+    "identifier": "10.5281/zenodo.24367492",
+    "relation": "references",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "10.5281/zenodo.24367442",
+    "relation": "references",
+    "scheme": "doi"
+   }
+  ],
+  "language": "eng",
+  "version": "1.0"
+ }
+}

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper."
+title: "Soil-moisture-dependent flash flood guidance for ungauged escarpment tributaries in an operational HEC-RTS forecasting system: the Semliki Basin, Uganda"
+type: software
+version: "1.0"
+date-released: 2026-11-24
+# doi: to be assigned by Zenodo on publication
+license: [CC-BY-4.0, MIT]
+repository-code: "https://github.com/Kaitale/semliki-sem9.12-flash-flood-guidance"
+authors:
+  - family-names: "Kakooza"
+    given-names: "Charles"
+    affiliation: "KAI Water & Energy, Kampala, Uganda"
+  - family-names: "Nafula"
+    given-names: "Monica"
+    affiliation: "KAI Water & Energy, Kampala, Uganda"
+    email: "monicanafula@kaiwaterenergy.com"
